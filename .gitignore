@@ -2,3 +2,4 @@
 .idea/
 nodejs/express_sample/node_modules/
 nodejs/express_sample/package-lock.json
+/nodejs/express_sample/config/config.js
