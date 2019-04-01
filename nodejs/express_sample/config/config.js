@@ -1,3 +1,0 @@
-const dbConn = {
-	id: "aaaaaa"
-};
