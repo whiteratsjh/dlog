@@ -26,6 +26,5 @@ gApp.use(mSession({
 require('./router/main')(gApp, mFs);
 
 gApp.listen(3000, () => {
-	console.log("aaa");
 	console.log("Example app listening on port 3000!");
 });
